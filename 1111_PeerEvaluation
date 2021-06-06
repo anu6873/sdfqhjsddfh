@@ -14,8 +14,8 @@
 <p style="color:purple">Write the name of each of your team members in a separate column. For each person,<br>
  indicate the extent to which you agree with the statement on the left, using a scale <br>
  of 1-4 
- <ol start =01, style="color:purple>
- <li style="color:purple"><em style="color:purple">strongly disagree
+ <ol style="color:purple, start =01>
+ <li style="color:purple"><em>strongly disagree
  <li style="color:purple">disagree
  <li style="color:purple">agree
  <li style="color:purple">strongly agree</em>
