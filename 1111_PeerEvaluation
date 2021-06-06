@@ -14,11 +14,11 @@
 <p style="color:purple">Write the name of each of your team members in a separate column. For each person,<br>
  indicate the extent to which you agree with the statement on the left, using a scale <br>
  of 1-4 
- <ol start =01>
- <li><em>strongly disagree
- <li>disagree
- <li>agree
- <li>strongly agree</em>
+ <ol start =01, style="color:purple>
+ <li style="color:purple"><em style="color:purple">strongly disagree
+ <li style="color:purple">disagree
+ <li style="color:purple">agree
+ <li style="color:purple">strongly agree</em>
  </ol>
  
 <p style="color:purple"> Total the numbers in each column.
@@ -112,9 +112,9 @@ tr:nth-child(even) {
 			
    
 
-<p style="color:purple"><h4>Student name: Anuraag Singh,	id: 20114125, 	Signature: A.S</p>	</h4>
+<p><h4 style="color:purple">Student name: Anuraag Singh,	id: 20114125, 	Signature: A.S</p>	</h4>
 <hr/>
-<p style="color:purple"><h6><em>Note: the simplest option will be to fill in the sheet, copy and email it to your TA when completed.</p></h6></em> 
- <p style="color:purple"><h6><em>As this is a static site without security features, it is not automated at this stage.[But usefully shows the limits of technology too]</p></h6></em>
+<p><h6 style="color:purple"><em>Note: the simplest option will be to fill in the sheet, copy and email it to your TA when completed.</p></h6></em> 
+ <p><h6 style="color:purple"><em>As this is a static site without security features, it is not automated at this stage.[But usefully shows the limits of technology too]</p></h6></em>
 </body>
 </html>
